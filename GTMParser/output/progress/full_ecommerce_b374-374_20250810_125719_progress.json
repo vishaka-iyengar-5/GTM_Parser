@@ -1,0 +1,40 @@
+{
+  "session_name": "full_ecommerce_b374-374_20250810_125719",
+  "completed_urls": [
+    "https://cha7n.com/",
+    "https://chakuero-jyo-ho-koukanjyo.cafeblog.jp/",
+    "https://chaddsfordjewelry.com/",
+    "https://chamdor.com/",
+    "https://chandukakasaraf.in/",
+    "https://ch.pandora.net/",
+    "https://chantdugros.ch/",
+    "https://chaprabeautyshop.com/",
+    "https://chaletenbois.fr/",
+    "https://chalkcouture.com/",
+    "https://ch.iqos.com/",
+    "https://chalada.cl/",
+    "https://chandranipearls.in/",
+    "https://cgon.rospotrebnadzor.ru/",
+    "https://championstore.jp/",
+    "https://chandsoo.com/",
+    "https://chaotic.co.uk/",
+    "https://chalicecollectibles.com/",
+    "https://chanakyanipothi.com/",
+    "https://chantbe.com/",
+    "https://changingspacessrs.com/",
+    "https://characterdesignreferences.com/",
+    "https://chanluu.com/",
+    "https://channel.beep-shop.com/"
+  ],
+  "failed_urls": [
+    "https://chamelo.com/"
+  ],
+  "current_batch": 1,
+  "total_batches": 1,
+  "batch_size": 25,
+  "start_time": 1754830641.3261113,
+  "last_updated": 1754831143.2869215,
+  "total_completed": 24,
+  "total_failed": 1,
+  "completion_percentage": 100.0
+}

@@ -1,0 +1,40 @@
+{
+  "session_name": "full_ecommerce_b381-382_20250810_145959",
+  "completed_urls": [
+    "https://christydawn.com/",
+    "https://cielitostore.com/",
+    "https://cigadesign.com/",
+    "https://churchsource.com/",
+    "https://ci-puiyye.com/",
+    "https://cicana.co/",
+    "https://ciclidrigani.it/",
+    "https://chronos.mg/",
+    "https://christusmuguerza.com.mx/",
+    "https://ciechocinek.pl/",
+    "https://chubbycable.com/",
+    "https://chronicguru.com/",
+    "https://cidef.cl/",
+    "https://cicloscorredor.com/",
+    "https://chromeworld.jp/",
+    "https://chromeindustries.com/",
+    "https://ciello.com.br/",
+    "https://cicinia.fr/",
+    "https://cicilya.co.il/",
+    "https://cicinails.hr/",
+    "https://chucheriaspr.com/",
+    "https://ciaotutti.nl/",
+    "https://ciciban.rs/"
+  ],
+  "failed_urls": [
+    "https://chuckanddons.com/",
+    "https://chudo-ostriv.com.ua/"
+  ],
+  "current_batch": 1,
+  "total_batches": 2,
+  "batch_size": 25,
+  "start_time": 1754837999.924841,
+  "last_updated": 1754838700.9963336,
+  "total_completed": 23,
+  "total_failed": 2,
+  "completion_percentage": 50.0
+}

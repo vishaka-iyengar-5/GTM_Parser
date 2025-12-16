@@ -1,0 +1,40 @@
+{
+  "session_name": "full_ecommerce_b219-219_20250810_193627",
+  "completed_urls": [
+    "https://www.vidaxl.it/",
+    "https://www.vioc.com/",
+    "https://www.vidaxl.gr/",
+    "https://www.visitflorida.com/",
+    "https://www.vitalityextracts.com/",
+    "https://www.vidaxl.cz/",
+    "https://www.vis-express.fr/",
+    "https://www.vidaxl.pt/",
+    "https://www.vidaxl.sk/",
+    "https://www.vidaxl.se/",
+    "https://www.vitabiotics.com/",
+    "https://www.vidaxl.fr/",
+    "https://www.visions.ca/",
+    "https://www.vitusapotek.no/",
+    "https://www.vilvahstore.com/",
+    "https://www.virginexperiencedays.co.uk/",
+    "https://www.vitafor.com.br/",
+    "https://www.visitkingsisland.com/",
+    "https://www.visitsealife.com/",
+    "https://www.visualcomfort.com/",
+    "https://www.voetbalshop.nl/",
+    "https://www.vidaxl.hr/",
+    "https://www.vineapparel.com/",
+    "https://www.vividracing.com/"
+  ],
+  "failed_urls": [
+    "https://www.visittrentino.info/"
+  ],
+  "current_batch": 1,
+  "total_batches": 1,
+  "batch_size": 25,
+  "start_time": 1754854587.0903428,
+  "last_updated": 1754855075.8992875,
+  "total_completed": 24,
+  "total_failed": 1,
+  "completion_percentage": 100.0
+}

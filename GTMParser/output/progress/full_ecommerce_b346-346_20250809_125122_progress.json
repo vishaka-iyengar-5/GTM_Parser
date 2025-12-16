@@ -1,0 +1,39 @@
+{
+  "session_name": "full_ecommerce_b346-346_20250809_125122",
+  "completed_urls": [
+    "https://bubbles-online.co.il/",
+    "https://bubnovsky.org/",
+    "https://budhshiv.com/",
+    "https://budsnblush.com/",
+    "https://buffcitysoap.com/",
+    "https://bucketsquad.com/",
+    "https://buffalochile.cl/",
+    "https://buffaloburger.com/",
+    "https://buceplant.com/",
+    "https://btartboxnails.com/",
+    "https://btlimitededitionstore.com/",
+    "https://bucketandshovel.com/",
+    "https://bufaluzcutelaria.com/",
+    "https://buffalogames.com/",
+    "https://buecherbuechse.de/",
+    "https://buah.de/",
+    "https://buffalojackson.com/",
+    "https://bubbabags.com.pe/",
+    "https://bubblesplastics.co.za/",
+    "https://bubblzzeg.com/",
+    "https://budhi-mudra.com/",
+    "https://buckle-down.com/"
+  ],
+  "failed_urls": [
+    "https://bucco.com.ar/",
+    "https://bubulands.com/"
+  ],
+  "current_batch": 1,
+  "total_batches": 1,
+  "batch_size": 25,
+  "start_time": 1754743883.5739079,
+  "last_updated": 1754744362.7983592,
+  "total_completed": 22,
+  "total_failed": 2,
+  "completion_percentage": 96.0
+}

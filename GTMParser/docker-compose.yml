@@ -1,0 +1,38 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"              # Python usually uses 8000
+    volumes:
+      - .:/app
+      - ./output:/app/output
+    environment:
+      - PYTHONUNBUFFERED=1       
+    command: python src/main.py  
+    stdin_open: true
+    tty: true
+
+  playwright:
+    build: .
+    volumes:
+      - .:/app
+      - ./output:/app/output
+    environment:
+      - CI=true
+    command: python -m pytest tests/ -v  
+    depends_on:
+      - app
+    network_mode: "service:app"
+    profiles:
+      - test
+
+  shell:
+    build: .
+    volumes:
+      - .:/app
+      - ./output:/app/output
+    command: /bin/bash
+    stdin_open: true
+    tty: true
+    profiles:
+      - dev

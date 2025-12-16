@@ -1,0 +1,13 @@
+{
+  "session_name": "batch_test_b4-4_20250805_090746",
+  "completed_urls": [],
+  "failed_urls": [],
+  "current_batch": 0,
+  "total_batches": 0,
+  "batch_size": 100,
+  "start_time": 1754384866.929388,
+  "last_updated": 1754384866.9325464,
+  "total_completed": 0,
+  "total_failed": 0,
+  "completion_percentage": 0.0
+}

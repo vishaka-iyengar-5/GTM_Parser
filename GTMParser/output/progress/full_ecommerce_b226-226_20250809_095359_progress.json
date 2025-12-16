@@ -1,0 +1,40 @@
+{
+  "session_name": "full_ecommerce_b226-226_20250809_095359",
+  "completed_urls": [
+    "http://xe.chonve.vn/",
+    "https://100ways.com/",
+    "http://yoyonest.jp/",
+    "https://101dalmatin.ua/",
+    "https://1010apothecary.com.tw/",
+    "https://100thieves.com/",
+    "http://www.soldiers-almada.com/",
+    "http://www.takegawa.co.jp/",
+    "https://10mois.com/",
+    "https://100med.ru/",
+    "https://10-10-10.jp/",
+    "https://100idey.com.ua/",
+    "http://www.zdsamara.ru/",
+    "https://1010discs.com/",
+    "https://1001dekoracji.pl/",
+    "https://1000inf.ru/",
+    "https://09platform.com/",
+    "https://1-huis.stores.jp/",
+    "https://100nout.by/",
+    "https://101internet.id/",
+    "https://071records.com/",
+    "https://100percent.eu/",
+    "https://101-multimedia.com/"
+  ],
+  "failed_urls": [
+    "https://11dream.in/",
+    "https://10.mydoramalive.com/"
+  ],
+  "current_batch": 1,
+  "total_batches": 1,
+  "batch_size": 25,
+  "start_time": 1754733239.4966562,
+  "last_updated": 1754733844.0825026,
+  "total_completed": 23,
+  "total_failed": 2,
+  "completion_percentage": 100.0
+}

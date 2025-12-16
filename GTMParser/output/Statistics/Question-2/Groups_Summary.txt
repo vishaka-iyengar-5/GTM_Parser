@@ -1,0 +1,39 @@
+GTM EVENTS ANALYSIS SUMMARY
+============================================================
+
+OVERALL ANALYSIS (Step 1):
+- Total websites analyzed: 4500
+- Websites with GTM events: 3192
+- Total unique events found: 1538
+- Total event occurrences: 17038
+
+DATA SEGREGATION (Step 2):
+============================================================
+
+Group A - Websites WITH consent mode (GTM=True AND Consent=True):
+- Total websites: 2876
+- Percentage of total: 63.91%
+- File: 2.2.x-Group_A.csv
+
+Group B - Websites WITHOUT consent mode (GTM=True AND Consent=False):
+- Total websites: 316
+- Percentage of total: 7.02%
+- File: 2.2.x-Group_B.csv
+
+Group C - Websites with NO GTM (GTM=False):
+- Total websites: 1308
+- Percentage of total: 29.07%
+- File: 2.2.x-Group_C.csv
+
+VERIFICATION:
+- Group A + Group B + Group C = 4500
+- Original total = 4500
+- Match: ✓
+
+FILES CREATED:
+============================================================
+1. Unique_GTM_events.csv - All unique events with frequencies
+2. 2.2.x-Group_A.csv - Clean data for consent mode users
+3. 2.2.x-Group_B.csv - Clean data for non-consent mode users  
+4. 2.2.x-Group_C.csv - Clean data for non-GTM users
+5. Groups_Summary.txt - This summary file

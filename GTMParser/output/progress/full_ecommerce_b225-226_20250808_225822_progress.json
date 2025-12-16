@@ -1,0 +1,40 @@
+{
+  "session_name": "full_ecommerce_b225-226_20250808_225822",
+  "completed_urls": [
+    "http://toys-mccoy.shop-pro.jp/",
+    "http://www.msmobile.rs/",
+    "http://www.mmlgold.com/",
+    "http://khalijmusic5.com/",
+    "http://pierrot-store.com/",
+    "http://www.mzp.pl/",
+    "http://sedboyaca.gov.co/",
+    "http://www.harmonia91.hu/",
+    "http://www.from-sen.com/",
+    "http://www.gunsanamma.com/",
+    "http://lk.stu.lipetsk.ru/",
+    "http://www.autosaccidentadoslobato.com/",
+    "http://dvd-angel.net/",
+    "http://tacticamp.ua/",
+    "http://komineshop.shop21.makeshop.jp/",
+    "http://www.deadsexyclips.com/",
+    "http://newagro.by/",
+    "http://gs25.gsretail.com/",
+    "http://kruhlyk.com.ua/",
+    "http://krolestwotytoniu.pl/",
+    "http://kinoteatr.megamag.by/",
+    "http://www.beautyshop168.com/"
+  ],
+  "failed_urls": [
+    "http://rockstakk.shop-pro.jp/",
+    "http://tcbjeans.com/",
+    "http://troutisland.shop-pro.jp/"
+  ],
+  "current_batch": 1,
+  "total_batches": 2,
+  "batch_size": 25,
+  "start_time": 1754693902.7100987,
+  "last_updated": 1754694892.9319184,
+  "total_completed": 22,
+  "total_failed": 3,
+  "completion_percentage": 50.0
+}

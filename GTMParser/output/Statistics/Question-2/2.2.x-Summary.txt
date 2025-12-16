@@ -1,0 +1,90 @@
+GTM EVENTS ANALYSIS SUMMARY
+============================================================
+
+OVERALL ANALYSIS (Step 1):
+- Total websites analyzed: 4500
+- Websites with GTM events: 3192
+- Total unique events found: 1538
+- Total event occurrences: 17038
+
+DATA SEGREGATION (Step 2):
+============================================================
+
+Group A - Websites WITH consent mode (GTM=True AND Consent=True):
+- Total websites: 2876
+- Percentage of total: 63.91%
+- File: 2.2.x-Group_A.csv
+
+Group B - Websites WITHOUT consent mode (GTM=True AND Consent=False):
+- Total websites: 316
+- Percentage of total: 7.02%
+- File: 2.2.x-Group_B.csv
+
+Group C - Websites with NO GTM (GTM=False):
+- Total websites: 1308
+- Percentage of total: 29.07%
+- File: 2.2.x-Group_C.csv
+
+VERIFICATION:
+- Group A + Group B + Group C = 4500
+- Original total = 4500
+- Match: ✓
+
+FILES CREATED:
+============================================================
+1. Unique_GTM_events.csv - All unique events with frequencies
+2. 2.2.x-Group_A.csv - Clean data for consent mode users
+3. 2.2.x-Group_B.csv - Clean data for non-consent mode users  
+4. 2.2.x-Group_C.csv - Clean data for non-GTM users
+5. Groups_Summary.txt - This summary file
+
+
+STEP 3 - EVENT FREQUENCY ANALYSIS:
+============================================================
+
+Group A - Websites WITH consent mode:
+- Websites with events: 2876
+- Total event occurrences: 15605
+- Unique events: 1434
+- Average events per website: 5.43
+
+Top 10 most frequent events in Group A:
+   1. gtm.dom - 2833 times (18.15%)
+   2. gtm.load - 2632 times (16.87%)
+   3. gtm.js - 2106 times (13.5%)
+   4. gtm.click - 1051 times (6.74%)
+   5. gtm.scrollDepth - 622 times (3.99%)
+   6. OneTrustLoaded - 274 times (1.76%)
+   7. OptanonLoaded - 274 times (1.76%)
+   8. OneTrustGroupsUpdated - 272 times (1.74%)
+   9. view_item_list - 249 times (1.6%)
+  10. gtm.historyChange-v2 - 197 times (1.26%)
+
+Group B - Websites WITHOUT consent mode:
+- Websites with events: 316
+- Total event occurrences: 1433
+- Unique events: 247
+- Average events per website: 4.53
+
+Top 10 most frequent events in Group B:
+   1. gtm.dom - 260 times (18.14%)
+   2. gtm.load - 229 times (15.98%)
+   3. gtm.js - 205 times (14.31%)
+   4. gtm.click - 88 times (6.14%)
+   5. none - 36 times (2.51%)
+   6. OneTrustLoaded - 30 times (2.09%)
+   7. OptanonLoaded - 30 times (2.09%)
+   8. gtm.scrollDepth - 30 times (2.09%)
+   9. OneTrustGroupsUpdated - 29 times (2.02%)
+  10. gtm.triggerGroup - 24 times (1.67%)
+
+COMPARISON INSIGHTS:
+============================================================
+- Group A has 1434 unique events vs Group B has 247 unique events
+- Group A avg events/website: 5.43
+- Group B avg events/website: 4.53
+
+FILES CREATED IN STEP 3:
+- 2.2.1-Group_A+EventFrequency.csv
+- 2.2.2-Group_B+EventFrequency.csv
+- 2.2.x-Summary.txt (this file)

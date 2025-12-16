@@ -1,0 +1,248 @@
+Event_Name,Frequency,Percentage
+gtm.dom,260,18.14%
+gtm.load,229,15.98%
+gtm.js,205,14.31%
+gtm.click,88,6.14%
+none,36,2.51%
+OneTrustLoaded,30,2.09%
+OptanonLoaded,30,2.09%
+gtm.scrollDepth,30,2.09%
+OneTrustGroupsUpdated,29,2.02%
+gtm.triggerGroup,24,1.67%
+view_item_list,17,1.19%
+gtm.timer,16,1.12%
+consent_status,14,0.98%
+cookie_consent_update,11,0.77%
+view_promotion,10,0.7%
+didomi-consent,7,0.49%
+didomi-ready,7,0.49%
+gtm.elementVisibility,7,0.49%
+PageLoad,7,0.49%
+home_banner_view,7,0.49%
+didomi-cookies-consent,6,0.42%
+didomi-consent-changed,6,0.42%
+dl_user_data,6,0.42%
+gtm.consent,6,0.42%
+paywall-ready,5,0.35%
+user-ready,5,0.35%
+xiti-smart-tag-loaded,5,0.35%
+default_consent,5,0.35%
+cmpEventLoadedLayerOpen,5,0.35%
+cmpEventLoadFinished,5,0.35%
+cmpEvent,5,0.35%
+gtm.historyChange,5,0.35%
+gtm.historyChange-v2,5,0.35%
+trackOptanonEvent,5,0.35%
+view_item,5,0.35%
+cookie_consent_preferences,5,0.35%
+cookie_consent_statistics,5,0.35%
+cookie_consent_marketing,5,0.35%
+page_view,4,0.28%
+productDetail,4,0.28%
+sh_info,4,0.28%
+promotionView,3,0.21%
+productImpression,3,0.21%
+datalayer_ready,3,0.21%
+Pandectes_Consent_Update,3,0.21%
+afterLoad,3,0.21%
+pageView,3,0.21%
+cf_consent_necessary,3,0.21%
+cf_consent_advertising,3,0.21%
+cf_consent_performance,3,0.21%
+cf_consent_functional,3,0.21%
+cf_after_consent_update,3,0.21%
+cf_init,3,0.21%
+pb.onOptInGroups,2,0.14%
+user_data,2,0.14%
+AdBlocker,2,0.14%
+cookie_cat_necessary,2,0.14%
+cookie_cat_functional,2,0.14%
+cookie_cat_statistic,2,0.14%
+cookie_cat_marketing,2,0.14%
+cookie_cat_unclassified,2,0.14%
+fireRemarketingTag,2,0.14%
+tracking_status,2,0.14%
+pageLoad,2,0.14%
+GDPR Pref Allows 0,2,0.14%
+gtm.linkClick,2,0.14%
+homepagePushImpression,2,0.14%
+Scala Event - Banners,2,0.14%
+Scala Event - Perfomance Timing,2,0.14%
+content_square_init,2,0.14%
+luigisbox,2,0.14%
+nextroll-ready,2,0.14%
+axeptio_update,2,0.14%
+paEntry,2,0.14%
+ajaxCustomerData,2,0.14%
+cmplz_event_functional,2,0.14%
+cmplz_event_marketing,2,0.14%
+cmplz_event_statistics,2,0.14%
+cmplz_event_preferences,2,0.14%
+cf_layer_ready,2,0.14%
+page_view_stape,2,0.14%
+cookie_consent_default,2,0.14%
+consentUpdate,2,0.14%
+productPage,2,0.14%
+allPage,2,0.14%
+catalogProductViewPage,2,0.14%
+SCpageview,1,0.07%
+web-vitals,1,0.07%
+e_pageView,1,0.07%
+mu.ready,1,0.07%
+pb.onOptIn,1,0.07%
+tcConsentChanged,1,0.07%
+pageview,1,0.07%
+initTrackingLoaded,1,0.07%
+dimensionsLoaded,1,0.07%
+triggerTagsFr,1,0.07%
+promotion impression,1,0.07%
+pushPromotionImpression,1,0.07%
+trust_commander,1,0.07%
+dl_intelligems_script_loaded,1,0.07%
+promotion-impression-campaign-slider,1,0.07%
+promotion-impression-slider,1,0.07%
+promotion-impression-daily-slider,1,0.07%
+generalEvent,1,0.07%
+user variables,1,0.07%
+siteDetails,1,0.07%
+UserConsentChangeNotification.PerformanceEnabled,1,0.07%
+UserConsentChangeNotification.TargetingEnabled,1,0.07%
+UserConsentChangeNotification.OnSiteTargetingEnabled,1,0.07%
+cloud-header-branch-io-ready,1,0.07%
+bloomreach,1,0.07%
+searchResults,1,0.07%
+ee-productImpression,1,0.07%
+GTM.SDK.Impression.Tracking,1,0.07%
+convert-trigger-experience-1004108490,1,0.07%
+convert-trigger-experience-1004123997,1,0.07%
+convert-trigger-experience-1004130308,1,0.07%
+VirtualPageView,1,0.07%
+frosmo_affinity,1,0.07%
+frosmo_userInterest_weight,1,0.07%
+frosmo_userInterest_lastTimestamp,1,0.07%
+form_view,1,0.07%
+synerise_group,1,0.07%
+two_pages_viewed,1,0.07%
+scroll-milestone,1,0.07%
+page_meta,1,0.07%
+Ecommerce - view_item_list,1,0.07%
+ECC,1,0.07%
+pandectes-rules.min.js,1,0.07%
+ga4kit_info,1,0.07%
+orientation,1,0.07%
+fireTags,1,0.07%
+Product_Add_to_Favourites,1,0.07%
+banner_gdpr,1,0.07%
+add_to_cart,1,0.07%
+gtm.formSubmit,1,0.07%
+GAevent,1,0.07%
+homepagePush,1,0.07%
+PageInfo,1,0.07%
+geoip_info_ready,1,0.07%
+brandBannerView,1,0.07%
+brandBannerClick,1,0.07%
+mpCustomerSession,1,0.07%
+santianoEcommerce,1,0.07%
+cookie_choice,1,0.07%
+interaction,1,0.07%
+page,1,0.07%
+ecommerceEvent,1,0.07%
+pageID,1,0.07%
+page_fb_event_id,1,0.07%
+_pageview,1,0.07%
+crto_homepage,1,0.07%
+fb.pixel.init,1,0.07%
+Scala Event - Suggestion Listing - View,1,0.07%
+Consent Changed,1,0.07%
+dynamicRemarketing,1,0.07%
+virtualPageView,1,0.07%
+bannerView,1,0.07%
+Scala Event - Listing,1,0.07%
+cookie_update,1,0.07%
+bl_event,1,0.07%
+contextData,1,0.07%
+deviceData,1,0.07%
+userData,1,0.07%
+cartData,1,0.07%
+customerData,1,0.07%
+HomeView,1,0.07%
+trackersEvaluate,1,0.07%
+sgm_mini_banner_impression,1,0.07%
+sgm_mini_banner_viewed,1,0.07%
+home,1,0.07%
+PageView,1,0.07%
+custom_event,1,0.07%
+vwo-data-push-ga4,1,0.07%
+user-loaded,1,0.07%
+fl_popup,1,0.07%
+popup_offer_city_show_automatically,1,0.07%
+loadBasket,1,0.07%
+load_basket_from_GTM,1,0.07%
+gtm.pageError,1,0.07%
+robinhq_init,1,0.07%
+ipEvent,1,0.07%
+MieleBasic_Initialization,1,0.07%
+fireRemarketingTag_home,1,0.07%
+nonInteraction,1,0.07%
+dy_tracking_event,1,0.07%
+dy_general_impression,1,0.07%
+Loaded a Page,1,0.07%
+set_user_properties,1,0.07%
+generic,1,0.07%
+ab_recos_74c13f55-125f-46bd-a41c-bceb83ec946d,1,0.07%
+c_page_view,1,0.07%
+c_view_promotion,1,0.07%
+c_view_item_list,1,0.07%
+AWIN EXPLICIT_DENY,1,0.07%
+CleverReach EXPLICIT_DENY,1,0.07%
+Criteo EXPLICIT_DENY,1,0.07%
+Facebook Pixel EXPLICIT_DENY,1,0.07%
+Google Ads Conversion EXPLICIT_DENY,1,0.07%
+Google Ads Remarketing EXPLICIT_DENY,1,0.07%
+Google Cloud EXPLICIT_DENY,1,0.07%
+Google Maps EXPLICIT_DENY,1,0.07%
+usemax advertisement EXPLICIT_DENY,1,0.07%
+exactag EXPLICIT_DENY,1,0.07%
+Trustpilot EXPLICIT_DENY,1,0.07%
+shopping24 EXPLICIT_DENY,1,0.07%
+Sovendus EXPLICIT_DENY,1,0.07%
+econda Analytics EXPLICIT_DENY,1,0.07%
+Microsoft Advertising EXPLICIT_DENY,1,0.07%
+TikTok Advertising EXPLICIT_DENY,1,0.07%
+RTB House EXPLICIT_DENY,1,0.07%
+Google Analytics EXPLICIT_DENY,1,0.07%
+YouTube Video EXPLICIT_DENY,1,0.07%
+Woosmap EXPLICIT_DENY,1,0.07%
+cookie.banner.init,1,0.07%
+view_collection_stape,1,0.07%
+enhencer.ready,1,0.07%
+Begin DataLayer,1,0.07%
+Log State,1,0.07%
+DataLayer Loaded,1,0.07%
+page_info,1,0.07%
+szdl_pageview,1,0.07%
+dl_event_popup,1,0.07%
+homeView,1,0.07%
+visitor_in_ab_test,1,0.07%
+async,1,0.07%
+userPrefUpdate,1,0.07%
+Termly.consentSaveDone,1,0.07%
+PageViewEvent,1,0.07%
+convert-trigger-experiment-1004144921,1,0.07%
+visitorConsentChanged,1,0.07%
+tmary.widgetLoad,1,0.07%
+gtm-ee-event,1,0.07%
+consent_update,1,0.07%
+enhanceEcom cartUpdated,1,0.07%
+personalization_active_slides,1,0.07%
+show,1,0.07%
+push.native.ask,1,0.07%
+scrollTracking,1,0.07%
+engagementTimer,1,0.07%
+stm_init,1,0.07%
+ee_view_item_list,1,0.07%
+view_category,1,0.07%
+reset_common_model,1,0.07%
+view_product_list,1,0.07%
+page_loaded_1000,1,0.07%
+view_item_stape,1,0.07%

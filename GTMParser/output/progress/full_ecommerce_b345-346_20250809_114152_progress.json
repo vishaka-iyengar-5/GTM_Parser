@@ -1,0 +1,40 @@
+{
+  "session_name": "full_ecommerce_b345-346_20250809_114152",
+  "completed_urls": [
+    "https://bsuedu.ru/",
+    "https://brownliving.in/",
+    "https://brustro.in/",
+    "https://brucebolt.us/",
+    "https://bscfashion.com/",
+    "https://brush-carpaint.com/",
+    "https://bryananthonys.com/",
+    "https://brw-shop.by/",
+    "https://bruceshark.com/",
+    "https://bs-partner.com.ua/",
+    "https://bsemoto.pro/",
+    "https://bshopy.hu/",
+    "https://brujhas.com/",
+    "https://brunathelabel.com/",
+    "https://brouwland.com/",
+    "https://bshopy.in/",
+    "https://brugtetrusser.dk/",
+    "https://brusnikabrand.com/",
+    "https://brsg.co.kr/",
+    "https://brusselsbonsai.com/",
+    "https://bruma.ro/",
+    "https://brotures.com/",
+    "https://bstrong.pt/"
+  ],
+  "failed_urls": [
+    "https://bsteel.by/",
+    "https://bsu.by/"
+  ],
+  "current_batch": 1,
+  "total_batches": 2,
+  "batch_size": 25,
+  "start_time": 1754739712.3732126,
+  "last_updated": 1754740649.9103827,
+  "total_completed": 23,
+  "total_failed": 2,
+  "completion_percentage": 50.0
+}
